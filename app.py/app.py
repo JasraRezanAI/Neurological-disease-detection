@@ -4,6 +4,7 @@ import streamlit as st
 import joblib
 import pandas as pd
 
+
 # Add a title to your Streamlit application
 st.title("Disease Detection Prediction")
 
